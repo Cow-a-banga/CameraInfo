@@ -5,10 +5,32 @@
              x:Class="CameraInfo.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <ListView SelectionMode="None"
+                  x:Name = "view">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout>
+                                <Label Text="{Binding Name}"></Label>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Состояние звука"></Label>
+                                    <CheckBox IsChecked="True" IsEnabled="False" IsVisible="{Binding IsSoundOn}" Color="Green"></CheckBox>
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Состояние записи"></Label>
+                                    <CheckBox IsChecked="True" IsEnabled="False" IsVisible="{Binding IsRecordingOn}" Color="Green"></CheckBox>
+                                </StackLayout>
+                                <StackLayout>
+                                    <Label Text="Активные потоки:"></Label>
+                                    <Label Text="{Binding Streams}"></Label>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </StackLayout>
 
 </ContentPage>
