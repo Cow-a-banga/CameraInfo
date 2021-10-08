@@ -1,0 +1,13 @@
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\bin\Debug\netstandard2.0\CameraInfo.deps.json
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\bin\Debug\netstandard2.0\CameraInfo.dll
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\bin\Debug\netstandard2.0\CameraInfo.pdb
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\obj\Debug\netstandard2.0\CameraInfo.csproj.AssemblyReference.cache
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\obj\Debug\netstandard2.0\CameraInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\obj\Debug\netstandard2.0\CameraInfo.AssemblyInfoInputs.cache
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\obj\Debug\netstandard2.0\CameraInfo.AssemblyInfo.cs
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\obj\Debug\netstandard2.0\CameraInfo.csproj.CoreCompileInputs.cache
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\obj\Debug\netstandard2.0\CameraInfo.dll
+C:\Users\chiru\RiderProjects\CameraInfo\CameraInfo\CameraInfo\obj\Debug\netstandard2.0\CameraInfo.pdb

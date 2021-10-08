@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MTHUllh8kxFPthJV+dVMpCjANHc4CHMB0PrsvIO3435ovRP0ODra1xUHONmKQHaN0agSlTRCSklPoWhLh1M3Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chiru\\RiderProjects\\CameraInfo\\CameraInfo\\CameraInfo.iOS\\CameraInfo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chiru\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}
